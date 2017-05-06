@@ -38,5 +38,5 @@ I am here for [one week/two weeks/three weeks].
 See you later!   
   
 **Tschüß**  
-**Bye!**  
+Bye!
 
