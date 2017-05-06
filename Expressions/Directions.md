@@ -1,67 +1,67 @@
-**Wo?**
+**Wo?**  
 Where?
 
-**Entschuldigung, wo ist…?**
+**Entschuldigung, wo ist…?**  
 Excuse me, where is…?
 
-**In welcher Richtung ist X?**
+**In welcher Richtung ist X?**  
 In what direction is X?
 
-**Ist es in der Nähe?**
+**Ist es in der Nähe?**  
 Is it nearby?
 
-**Ist es weit weg?**
+**Ist es weit weg?**  
 Is it far away?
 
-**Wo ist der [Eingang/Ausgang]? **
+**Wo ist der [Eingang/Ausgang]?**  
 Where is the [entrance/exit]? 
 
-**Bringen Sie mich bitte zu dieser Adresse.**
+**Bringen Sie mich bitte zu dieser Adresse.**  
 Please bring me to this address. 
 
-**Zum Stadtzentrum, bitte.**
+**Zum Stadtzentrum, bitte.**  
 To the city center, please.   
 
-**Zum Bahnhof, bitte.**
+**Zum Bahnhof, bitte.**  
 To the train station, please.
 
-**Zum Flughafen, bitte.**
+**Zum Flughafen, bitte.**  
 To the airport, please. 
 
-**Es ist da. / Da ist es.**
+**Es ist da. / Da ist es.**  
 It’s there. / There it is. 
 
-**Um die Ecke**
+**Um die Ecke**  
 Around the corner
 
-**Nach links**
+**Nach links**  
 To the left 
 
-**Nach rechts**
+**Nach rechts**  
 To the right
 
-**Geradeaus**
+**Geradeaus**  
 Straight ahead 
 
-**Oben**
+**Oben**  
 Upstairs 
 
-**Unten**
+**Unten**  
 Downstairs 
 
-**Zurück**
+**Zurück**  
 Back 
 
-**Halten Sie bitte hier an.**
+**Halten Sie bitte hier an.**  
 Please stop here. 
 
-**Nord**
+**Nord**  
 North 
 
-**Süd**
+**Süd**  
 South
 
-**Ost**
+**Ost**  
 East 
 
 **West**
