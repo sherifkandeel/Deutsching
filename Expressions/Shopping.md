@@ -10,7 +10,7 @@ How much is that?
 **Ich kann nur X Euro bezahlen.**  
 I can only pay X euros.   
   
-**Ich habe nur X Euro dabei. **  
+**Ich habe nur X Euro dabei.**  
 I only have X euros with me.   
   
 **Kann ich es für X Euro kaufen? **  
