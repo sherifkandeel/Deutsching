@@ -64,5 +64,5 @@ South
 **Ost**  
 East 
 
-**West**
+**West**  
 West
