@@ -35,5 +35,5 @@ What are you looking for?
 May I pay with cash?   
   
 **Darf ich mit Kreditkarte bezahlen?**  
-**May I pay with credit card?**  
+May I pay with credit card?
 
